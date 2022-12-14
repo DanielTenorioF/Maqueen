@@ -11,6 +11,6 @@
  - [Video]()
 
  ## Enlace al Codigo
- - [Codigo](macqueen2.hex)
+ - [Codigo](maqueen2.hex)
 
 
