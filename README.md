@@ -1,6 +1,6 @@
 # Maqueen
 ## Contenido
-- [Introduccion](introduccion.md)
+- [Introduccion](/contenido/introduccion.md)
 - [Modulo1: Descripción y montaje](modulo1.md)
 - [Módulo2: Programación básica  1](modulo2.md)
 - [Módulo3: Programación básica  2](modulo3.md)
