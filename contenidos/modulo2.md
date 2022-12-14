@@ -4,7 +4,7 @@
 
   Al presionar A: encenderá la luz izquierda y reproducirá un sonido.
  
-  Al presionar A: encenderá la luz derecha y reproducirá otro sonido.
+  Al presionar B: encenderá la luz derecha y reproducirá otro sonido.
  
   Al presionar A+B: encenderá ambas luces y reproducirá un sonido.
  
