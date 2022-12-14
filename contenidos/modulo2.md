@@ -16,7 +16,7 @@
  - [Explicacion](https://www.youtube.com/watch?v=oUtcqfuMcIA)
  
  ## Video Funcionando 
- - [Video]()
+ - [Video](https://www.youtube.com/shorts/rilxOZsHmJ4)
 
  ## Enlace al Codigo
  - [Codigo](maqueen2.hex)
