@@ -42,7 +42,7 @@
  
  - 
  ## Video de Explicacion
-![image](modulo2ejercicio3.PNG)
+![image](modulo2jercicio3.PNG)
 
  ## Video Funcionando 
  
