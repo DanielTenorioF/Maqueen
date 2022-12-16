@@ -1,5 +1,5 @@
 # Programación básica  1 
-## Enunciado
+## Video 1
 - Primeros pasos del robot:
 
   Al presionar A: encenderá la luz izquierda y reproducirá un sonido.
@@ -12,13 +12,42 @@
 
  ![image](imagen2.png)
  
+ 
  ## Video de Explicacion
  - [Explicacion](https://www.youtube.com/watch?v=oUtcqfuMcIA)
+ - [Explicacion]
  
  ## Video Funcionando 
  - [Video](https://www.youtube.com/shorts/rilxOZsHmJ4)
+ - [Video]
 
  ## Enlace al Codigo
  - [Codigo](maqueen2.hex)
+
+
+ ## Video 2
+ 
+ - 
+ ## Explicacion
+![image](modulo2ejercicio2_1.PNG)
+![image](modulo2ejercicio2_2.PNG)
+
+ ## Video Funcionando 
+ 
+ ## Enlace al Codigo
+ - [Codigo](modulo2ejercicio2.hex)
+
+
+
+ ## Video 3
+ 
+ - 
+ ## Video de Explicacion
+![image](modulo2ejercicio3.PNG)
+
+ ## Video Funcionando 
+ 
+ ## Enlace al Codigo
+ - [Codigo](modulo2ejercicio3.hex)
 
 
