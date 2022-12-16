@@ -27,7 +27,6 @@
 
  ## Video 2
  
- - 
  ## Explicacion
 ![image](modulo2ejercicio2_1.PNG)
 ![image](modulo2ejercicio2_2.PNG)
