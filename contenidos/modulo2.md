@@ -13,36 +13,36 @@
  ![image](imagen2.png)
  
  
- ## Video de Explicacion
+ # Video de Explicacion
  - [Explicacion](https://www.youtube.com/watch?v=oUtcqfuMcIA)
  
- ## Video Funcionando 
+ # Video Funcionando 
  - [Video](https://www.youtube.com/shorts/rilxOZsHmJ4)
 
- ## Enlace al Codigo
+ # Enlace al Codigo
  - [Codigo](maqueen2.hex)
 
 
  ## Ejercicio 2
  
- ## Explicacion
+ # Explicacion
 ![image](modulo2ejercicio2_1.PNG)
 ![image](modulo2ejercicio2_2.PNG)
 
- ## Video Funcionando 
+ # Video Funcionando 
  
- ## Enlace al Codigo
+ # Enlace al Codigo
  - [Codigo](modulo2ejercicio2.hex)
 
 
  ## Ejercicio 3
  
- ## Video de Explicacion
+ # Video de Explicacion
 ![image](modulo2jercicio3.PNG)
 
- ## Video Funcionando 
+ # Video Funcionando 
  
- ## Enlace al Codigo
+ # Enlace al Codigo
  - [Codigo](modulo2ejercicio3.hex)
 
 
