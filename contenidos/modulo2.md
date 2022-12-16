@@ -40,7 +40,6 @@
 
  ## Video 3
  
- - 
  ## Video de Explicacion
 ![image](modulo2jercicio3.PNG)
 
