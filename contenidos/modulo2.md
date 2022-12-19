@@ -1,4 +1,4 @@
-# Programación básica  1 
+# Programación Básica  1 
 # Ejercicio 1
 - Primeros pasos del robot:
 
