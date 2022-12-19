@@ -30,7 +30,7 @@
 ![image](modulo2ejercicio2_2.PNG)
 
  ## Video Funcionando 
-  - [Video]
+  - [Video]()
  
  ## Enlace al Codigo
  - [Codigo](modulo2ejercicio2.hex)
@@ -42,7 +42,7 @@
 ![image](modulo2jercicio3.PNG)
 
  ## Video Funcionando 
- - [Video]
+ - [Video]()
  
  ## Enlace al Codigo
  - [Codigo](modulo2ejercicio3.hex)
@@ -53,7 +53,7 @@
 ![image](carreraRobots.PNG)
 
  ## Video Funcionando 
- - [Video]
+ - [Video]()
  
  ## Enlace al Codigo
  - [Codigo](carreraRobots.hex)
