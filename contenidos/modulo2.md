@@ -47,4 +47,14 @@
  ## Enlace al Codigo
  - [Codigo](modulo2ejercicio3.hex)
 
+# Carrera de robots
+ 
+ ## Video de Explicacion
+![image](carreraRobots.PNG)
+
+ ## Video Funcionando 
+ - [Video]
+ 
+ ## Enlace al Codigo
+ - [Codigo](carreraRobots.hex)
 
