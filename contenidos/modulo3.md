@@ -4,6 +4,7 @@
 
 ## Almacenar variables, los datos y sensores
 
+
  ## Explicacion
  El robot dependiendo del boton que se pulse realizará diferentes ordenes, mediante el uso de una varible.
  
