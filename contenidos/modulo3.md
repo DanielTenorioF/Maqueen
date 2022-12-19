@@ -4,11 +4,13 @@
 
 ## Almacenar variables, los datos y sensores
 
- ## - Explicacion
-- ![image]()
-
- ## - Video Funcionando 
-  - [Video]
+ ## Explicacion
+ El robot dependiendo del boton que se pulse realizará diferentes ordenes, mediante el uso de una varible.
  
- ## - Enlace al Codigo
- - [Codigo](modulo2ejercicio2.hex)
+- ![image](modificarVariablesConBotones.PNG)
+
+ ## Video Funcionando 
+  - [Video]()
+ 
+ ## Enlace al Codigo
+ - [Codigo](modificarVariablesConBotones.hex)
