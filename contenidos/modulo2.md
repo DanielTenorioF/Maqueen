@@ -53,7 +53,7 @@
 ![image](carreraRobots.PNG)
 
  ## Video Funcionando 
- - [Video](https://youtube.com/shorts/HlhAaVHUjXg)
+ - [Video](https://youtube.com/shorts/LaqXRHZGp-0)
  
  ## Enlace al Codigo
  - [Codigo](carreraRobots.hex)
