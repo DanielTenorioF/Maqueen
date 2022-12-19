@@ -7,7 +7,7 @@
  ## Explicacion
  El robot dependiendo del boton que se pulse realizará diferentes ordenes, mediante el uso de una varible.
  
-- ![image](modificarVariablesConBotones.PNG)
+![image](modificarVariablesConBotones.PNG)
 
  ## Video Funcionando 
   - [Video](https://youtu.be/KVbMr8pE_d4)
