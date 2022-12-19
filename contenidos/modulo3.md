@@ -17,7 +17,7 @@
  - [Codigo](modificarVariablesConBotones.hex)
  
 
-#Actividad
+# Actividad
 
  ## Explicacion
  El robot debe avanzar en linea recta 5 segundos. A continuancion, hacer un giro de 180º y volver hacia atras otros 5 segundos.
