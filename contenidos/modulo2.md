@@ -42,7 +42,7 @@
 ![image](modulo2jercicio3.PNG)
 
  ## Video Funcionando 
- - [Video]()
+ - [Video](https://youtube.com/shorts/WA5HsWyXGWM)
  
  ## Enlace al Codigo
  - [Codigo](modulo2ejercicio3.hex)
