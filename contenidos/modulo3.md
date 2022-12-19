@@ -10,7 +10,7 @@
 - ![image](modificarVariablesConBotones.PNG)
 
  ## Video Funcionando 
-  - [Video]()
+  - [Video](https://youtu.be/KVbMr8pE_d4)
  
  ## Enlace al Codigo
  - [Codigo](modificarVariablesConBotones.hex)
