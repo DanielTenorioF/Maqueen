@@ -21,3 +21,14 @@
 
 - [Codigo 2](modulo4ejercicio1_2.hex)
   
+ # Ejercicio 2
+A través de un mando de control, el robot, mediante señales infrarojas será capaz de realizar las acciones desde el emisor (mando)
+![image](modulo4ejercicio2.PNG)
+
+ ## Video Funcionando
+  
+   - [Video](https://youtube.com/shorts/hehqijmG5h0?feature=share)
+
+## Enlace al Codigo
+
+ - [Codigo](microbit-video4_2.hex)
