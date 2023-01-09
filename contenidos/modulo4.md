@@ -13,6 +13,6 @@
  
   ## Video Funcionando
   
-   - [Video]([https://www.youtube.com/shorts/rilxOZsHmJ4](https://youtube.com/shorts/gsOA88AacUk?feature=share))
+   - [Video](https://youtube.com/shorts/gsOA88AacUk?feature=share)
   
   
