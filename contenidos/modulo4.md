@@ -1,6 +1,6 @@
 # Ampliación
 # Ejercicio 1
-- Para esta tarea es necesario 2 robot microbits.
+- Para esta tarea es necesario 2 robot microbits, al igual que 2 codigos.
   El primer robot:
   Al presionar los diferentes botones de la placa microbit se realizaran diferentes acciones.
 
@@ -14,5 +14,10 @@
   ## Video Funcionando
   
    - [Video](https://youtube.com/shorts/gsOA88AacUk?feature=share)
-  
+
+## Enlace al Codigo
+
+- [Codigo 1](microbit-Video4_1.hex)
+
+- [Codigo 2](modulo4ejercicio1_2.hex)
   
