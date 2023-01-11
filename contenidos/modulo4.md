@@ -33,3 +33,16 @@
 ## Enlace al Codigo
 
  - [Codigo](microbit-video4_2.hex)
+
+# Ejercicio 3
+- A través de un sonido externo, el robot llevará a cabo una serie de acciones activadas tras dicho sonido.
+
+![image](modulo4ejercicio3.PNG)
+
+ ## Video Funcionando
+  
+   - [Video](https://youtube.com/shorts/iL2ztRgJM_M?feature=share)
+
+## Enlace al Codigo
+
+ - [Codigo](modulo4ejercicio3.hex)
