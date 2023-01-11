@@ -46,3 +46,16 @@
 ## Enlace al Codigo
 
  - [Codigo](modulo4ejercicio3.hex)
+
+Ejercicio 4
+- El robot Maqueen será capaz, de forma autonoma, de esquivar los obstaculos que encuentren en su trayectoria.
+
+![image](modulo4ejercicio4.PNG)
+
+ ## Video Funcionando
+  
+   - [Video](https://youtube.com/shorts/DPa1y_aJfPk?feature=share)
+
+## Enlace al Codigo
+
+ - [Codigo](modulo4ejercicio4.hex)
