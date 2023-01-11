@@ -59,3 +59,17 @@
 ## Enlace al Codigo
 
  - [Codigo](modulo4ejercicio4.hex)
+
+# Ejercicio 5
+- El robot Maqueen seguirá la linea de forma autonoma.
+
+![image](modulo4ejercicio5_1.PNG)
+![image](modulo4ejercicio5_2.PNG)
+
+ ## Video Funcionando
+  
+   - [Video](https://youtube.com/shorts/skp0_UGuk5g?feature=share)
+
+## Enlace al Codigo
+
+ - [Codigo](modulo4ejercicio5.hex)
