@@ -8,6 +8,8 @@
 - [Modulo5: Proyecto](/contenidos/proyecto.md)
 
 ## Referencias
+- (José Antonio González)[https://www.youtube.com/@joseantoniogonzalez9412]
+- (MakeCode)[https://makecode.microbit.org/#]
 
 ## Autores
 - Daniel Tenorio Ferrera
