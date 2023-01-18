@@ -1,5 +1,5 @@
 # Proyecto
-# Ejercicio 1
+# Enunciado
 El robot Maqueen esta programado para seguir la linea y en el momento que se le coloca un objeto o pared delante, lo detectará y se parará hasta que el obstaculo no esté presente.
 
 ![image](proyecto_1.PNG)
