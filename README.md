@@ -5,7 +5,7 @@
 - [Módulo2: Programación básica  1](/contenidos/modulo2.md)
 - [Módulo3: Programación básica  2](/contenidos/modulo3.md)
 - [Módulo4: Ampliación](/contenidos/modulo4.md)
-- [Modulo5: Proyecto](/contenidos/proyecto.md)
+- [Modulo5: Proyecto](/contenidos/modulo5.md)
 
 ## Referencias
 - [José Antonio González](https://www.youtube.com/@joseantoniogonzalez9412)
