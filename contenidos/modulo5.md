@@ -1,14 +1,12 @@
 # Proyecto
 # Ejercicio 1
-- El robot Maqueen esta programado para seguir la linea negra y en el momento que se le coloca un objeto o pared delante, lo detectará y dará una vuelta de 180º, siguiendo la linea por el lado contrario  .
+- El robot Maqueen esta programado para seguir la linea y en el momento que se le coloca un objeto o pared delante, lo detectará y se parará hasta que el obstaculo no esté presente.
+![image](proyecto1.PNG)
+![image](proyecto2.PNG)
 
-![image]()
-
-  ## Videos
-  
-   - [Video funcionando]()
-   - [Video explicación]()
+  ## Video
+   - [Video explicativo]()
 
 ## Enlace al Codigo
 
-- [Codigo 1]()
+- [Codigo 1](microbitProyecto.hex)
