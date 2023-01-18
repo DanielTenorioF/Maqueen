@@ -10,4 +10,4 @@ El robot Maqueen esta programado para seguir la linea y en el momento que se le 
 
 ## Enlace al Codigo
 
-- [Codigo 1](microbitProyecto.hex)
+- [Codigo](microbitProyecto.hex)
