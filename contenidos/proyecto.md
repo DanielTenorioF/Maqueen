@@ -6,7 +6,7 @@ El robot Maqueen esta programado para seguir la linea y en el momento que se le 
 ![image](proyecto2.PNG)
 
 ## Video
-   - [Video explicativo]()
+   - [Video explicativo](https://youtu.be/k5n8fnNOLoY)
 
 ## Enlace al Codigo
 
