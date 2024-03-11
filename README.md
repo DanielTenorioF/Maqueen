@@ -12,7 +12,7 @@
 - [MakeCode](https://makecode.microbit.org/#)
 
 ## Autores
-- Daniel Tenorio Ferrera
-- Hugo Gonzalez Salas
+- [Daniel Tenorio Ferrera](https://github.com/DanielTenorioF)
+- [Hugo Gonzalez Salas](https://github.com/HugoGonzalezSalas)
 ## Licencia
 ![image](licencia.PNG)
